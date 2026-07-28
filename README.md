@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jd5073356-max&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jd5073356-max&theme=tokyonight&utcOffset=-5" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=jd5073356-max&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es" width="49%" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jd5073356-max&theme=tokyonight" width="49%" />
